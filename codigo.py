@@ -55,8 +55,8 @@ class EstudianteCombinado(
         return self.aplicar_beca(monto)
 #creamos objetos
 estudiantes = [
-    EstudianteCombinado("Jhon Miró Quesada", 0),
-    EstudianteCombinado("Choriflazo Ferreyros", 0)
+    EstudianteCombinado("Luis Huamaní Cárdenas", 0),
+    EstudianteCombinado("Rosa Ccahuana Prado", 0)
 ]
 
 estudiantes[0].registrar_pago(45.00)
